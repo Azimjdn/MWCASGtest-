@@ -1,0 +1,8 @@
+{
+  "name": "MWC-assignment1",
+  "app_id": "39c01bc5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
